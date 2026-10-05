@@ -1,16 +1,16 @@
 {
-    "version": "0.6.2",
+    "version": "0.7.0",
     "description": "ssh, scp, sftp, rsync and ssh-copy-id that answer the password or key passphrase prompt from a stored secret",
     "homepage": "https://github.com/W-Industries-Luke/sshc",
     "license": "MIT",
     "architecture": {
         "64bit": {
-            "url": "https://github.com/W-Industries-Luke/sshc/releases/download/v0.6.2/sshc-windows-amd64.exe#/sshc.exe",
-            "hash": "97e26ae7c55d372dd084e92ffe3ba2e66a34897a62e38fe02993763383b4d1e4"
+            "url": "https://github.com/W-Industries-Luke/sshc/releases/download/v0.7.0/sshc-windows-amd64.exe#/sshc.exe",
+            "hash": "8a01589b23af5e97e44ae803ba4953c7fa2062de0e6c04d8af1d01fbf8bb0c53"
         },
         "arm64": {
-            "url": "https://github.com/W-Industries-Luke/sshc/releases/download/v0.6.2/sshc-windows-arm64.exe#/sshc.exe",
-            "hash": "2e1318660b3eff4989cc882ebfd98abd5bcbfb1afd4dd78d950d4ae6ae1f572b"
+            "url": "https://github.com/W-Industries-Luke/sshc/releases/download/v0.7.0/sshc-windows-arm64.exe#/sshc.exe",
+            "hash": "e783dfa26f5b67dbbf66e7230b4a7ae39b1731921cba57bdf93322528fa304e8"
         }
     },
     "bin": "sshc.exe",
